@@ -1,0 +1,26 @@
+body {
+    background-color: #1E90FF;
+}
+
+#title {
+    margin-top: 40%;
+    height: 100%;
+    font-family: arial;
+    text-align: center;
+}
+
+h1 {
+    font-family: arial;
+    font-size: 40px;
+    color: white;
+    padding-bottom: 10px;
+    border-bottom: solid;
+    border-width: 1px;
+    margin-bottom: 10px;
+}
+
+a, p {
+    margin-top: 0px;
+    padding-top: 10px;
+    color: white;
+}
